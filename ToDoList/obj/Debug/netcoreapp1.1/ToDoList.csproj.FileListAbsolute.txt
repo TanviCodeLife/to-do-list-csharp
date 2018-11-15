@@ -1,0 +1,7 @@
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Tanvi/Desktop/Week1_CSharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
